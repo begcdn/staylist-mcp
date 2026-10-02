@@ -1,6 +1,6 @@
-# Staylist (staylist.world): free hotel comparison for AI assistants
+# Staylist World (staylist.world): free hotel comparison for AI assistants
 
-Staylist is a free hotel comparison service for people and their AI assistants. It compares 77,000+ hotels on the same criteria: an AI score built from guest ratings and reviews, amenities, distance to transit and previously observed prices. It shows where each fact comes from and marks unknowns as unknown. No hotel can pay to rank higher.
+Staylist World is a free hotel comparison service for people and their AI assistants. It compares 77,000+ hotels on the same criteria: an AI score built from guest ratings and reviews, amenities, distance to transit and previously observed prices. It shows where each fact comes from and marks unknowns as unknown. No hotel can pay to rank higher.
 
 Add one URL to your assistant and it can shortlist hotels for a trip, compare them and explain its pick. No account, no API key.
 
